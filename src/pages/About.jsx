@@ -15,7 +15,10 @@ const About = () => {
       <div className="contain">
         <div className="featureCard">
           <div className="Boxes">
-            <img src="./images/ingredients.png" alt="" />
+            <img
+              src={`${import.meta.env.BASE_URL}images/ingredients.png`}
+              alt="Fresh ingredients"
+            />
             <h1>Fresh Ingredients</h1>
           </div>
 
@@ -27,7 +30,10 @@ const About = () => {
 
         <div className="featureCard">
           <div className="Boxes">
-            <img src="./images/made.jpg" alt="" />
+            <img
+              src={`${import.meta.env.BASE_URL}images/made.jpg`}
+              alt="Handmade bakery"
+            />
             <h1>Handmade Daily</h1>
           </div>
 
@@ -39,7 +45,10 @@ const About = () => {
 
         <div className="featureCard">
           <div className="Boxes">
-            <img src="./images/quality.jpg" alt="" />
+            <img
+              src={`${import.meta.env.BASE_URL}images/quality.jpg`}
+              alt="Premium quality"
+            />
             <h1>Premium Quality</h1>
           </div>
 

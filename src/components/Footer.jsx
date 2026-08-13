@@ -52,7 +52,7 @@ const Footer = () => {
 
               <div className="contactItem">
                 <RiMapPin2Fill className="icon" />
-                <span>Nagpur, Maharashtra</span>
+                <span>Chandrapur, Maharashtra</span>
               </div>
 
               <div className="contactItem">

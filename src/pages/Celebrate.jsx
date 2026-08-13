@@ -12,7 +12,10 @@ const Celebrate = () => {
       <div className="cont">
         <div className="featCard">
           <div className="Baxa">
-            <img src="./images/morning.png" alt="" />
+            <img
+              src={`${import.meta.env.BASE_URL}images/morning.png`}
+              alt="Morning bakery"
+            />
           </div>
 
           <div className="boox">
@@ -35,14 +38,20 @@ const Celebrate = () => {
           </div>
 
           <div className="Baxa">
-            <img src="./images/moment.jpg" alt="" />
+            <img
+              src={`${import.meta.env.BASE_URL}images/moment.jpg`}
+              alt="Birthday celebration"
+            />
             {/* <h1>Handmade Daily</h1> */}
           </div>
         </div>
 
         <div className="featCard">
           <div className="Baxa">
-            <img src="./images/wedding.jpg" alt="" />
+            <img
+              src={`${import.meta.env.BASE_URL}images/wedding.jpg`}
+              alt="Wedding celebration"
+            />
             {/* <h1>Fresh Ingredients</h1> */}
           </div>
 
@@ -65,7 +74,10 @@ const Celebrate = () => {
           </div>
 
           <div className="Baxa">
-            <img src="./images/family.jpg" alt="" />
+            <img
+              src={`${import.meta.env.BASE_URL}images/family.jpg`}
+              alt="Family gathering"
+            />
             {/* <h1>Handmade Daily</h1> */}
           </div>
         </div>

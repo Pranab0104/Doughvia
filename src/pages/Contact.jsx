@@ -15,7 +15,10 @@ const Contact = () => {
         <div className="Card">
           <div className="Baxxaa">
             <div className="imgBox">
-              <img src="./images/background.jpg" alt="" />
+              <img
+                src={`${import.meta.env.BASE_URL}images/background.jpg`}
+                alt="Doughvia bakery"
+              />
               <h1>WE'D LOVE TO HEAR FROM YOU !</h1>
               <h2>Let's make your next moment a little sweeter.</h2>
             </div>

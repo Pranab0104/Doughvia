@@ -15,23 +15,38 @@ const Menu = () => {
       </p>
       <div className="menucontainer">
         <div className="Box">
-          <img src="./images/Crossiant.png" alt="Error 404 not found" />
+          <img
+            src={`${import.meta.env.BASE_URL}images/Crossiant.png`}
+            alt="Croissant"
+          />
           <h1>croissant</h1>
         </div>
         <div className="Box">
-          <img src="./images/Artisticbread.png" alt="Error 404 not found" />
+          <img
+            src={`${import.meta.env.BASE_URL}images/Artisticbread.png`}
+            alt="Artisan Sourdough"
+          />
           <h1>Artisan Sourdough</h1>
         </div>
         <div className="Box">
-          <img src="./images/cakes.png" alt="Error 404 not found" />
+          <img
+            src={`${import.meta.env.BASE_URL}images/cakes.png`}
+            alt="Cakes"
+          />
           <h1>Cakes</h1>
         </div>
         <div className="Box">
-          <img src="./images/chocolate.png" alt="Error 404 not found" />
+          <img
+            src={`${import.meta.env.BASE_URL}images/chocolate.png`}
+            alt="Chocolate treats"
+          />
           <h1>chocolate treats</h1>
         </div>
         <div className="Box">
-          <img src="./images/rolls.png" alt="Error 404 not found" />
+          <img
+            src={`${import.meta.env.BASE_URL}images/rolls.png`}
+            alt="Sweet rolls"
+          />
           <h1>sweet rolls</h1>
         </div>
       </div>
