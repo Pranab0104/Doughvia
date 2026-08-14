@@ -57,7 +57,7 @@ const Footer = () => {
 
               <div className="contactItem">
                 <RiPhoneFill className="icon" />
-                <span>+91 98765 43210</span>
+                <span>+91 ***** 43210</span>
               </div>
 
               <div className="contactItem">
