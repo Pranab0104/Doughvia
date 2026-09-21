@@ -11,19 +11,19 @@ A modern and responsive bakery website built with **React.js**, featuring a warm
 ## 📸 Screenshots
 
 ### Home
-![Home](./screenshots/home.png)
+![Home](./Screenshots/Home.png)
 
 ### About
-![About](./screenshots/about.png)
+![About](./Screenshots/About.png)
 
 ### Menu
-![Menu](./screenshots/menu.png)
+![Menu](./screenshots/Menu.png)
 
 ### Celebrate
-![Celebrate](./screenshots/celebrate.png)
+![Celebrate](./Screenshots/Celebrate.png)
 
 ### Contact
-![Contact](./screenshots/contact.png)
+![Contact](./Screenshots/Contact.png)
 
 ## ✨ Features
 
