@@ -8,6 +8,26 @@ A modern and responsive bakery website built with **React.js**, featuring a warm
 
 🔗 **GitHub:** https://github.com/Pranab0104/Doughvia
 
+## 📸 Screenshots
+### 🏠 Home
+
+![Doughvia Home](./screenshots/home.png)
+
+### 🍰 About
+
+![Doughvia About](./screenshots/about.png)
+
+### 🧁 Menu
+
+![Doughvia Menu](./screenshots/menu.png)
+
+### 🎉 Celebrate
+
+![Doughvia Celebrate](./screenshots/celebrate.png)
+
+### 📩 Contact
+
+![Doughvia Contact](./screenshots/contact.png)
 ## ✨ Features
 
 - Responsive bakery website
